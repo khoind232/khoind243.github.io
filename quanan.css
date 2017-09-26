@@ -22,7 +22,7 @@
 }
 .sub >li> ul {
 	display: none;
-	width: 250px;
+	width: 200px;
 
 }
 .sub >li:hover > ul {
@@ -39,7 +39,7 @@
 	line-height: 40px;
 	border-bottom: 1px solid #ccc;	
 	position: relative;
-	width: 250px;
+	width: 200px;
 	text-align: center;
 }
 .menu ul li:hover {
@@ -87,6 +87,7 @@ html {
 	background: #285779;
 	margin-bottom: 5px;
 	padding: 20px;
+	border-radius: 24px;
 }
 #back {
 	position: fixed;
@@ -118,6 +119,7 @@ html {
 
 }
 #fb {
+	font-size: 17px;
 	width: 33.33333%;
 	padding: 50px;
 }
